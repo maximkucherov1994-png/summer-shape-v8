@@ -1,0 +1,9 @@
+{
+  "name": "Summer Shape V9",
+  "short_name": "Summer Shape",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071719",
+  "theme_color": "#071719",
+  "icons": []
+}
